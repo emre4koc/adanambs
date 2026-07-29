@@ -1,0 +1,64 @@
+[29-Jul-2026 16:32:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 16:32:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 16:32:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 16:32:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 124
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 128
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 132
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 136
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 140
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 144
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 148
+[29-Jul-2026 13:32:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/adanambs/public_html/profil.php on line 152
+[29-Jul-2026 16:32:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 16:32:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 13:46:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/adanambs/public_html/config/db.php on line 28
+[29-Jul-2026 16:54:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 13:54:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/adanambs/public_html/config/db.php on line 28
+[29-Jul-2026 16:54:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 13:57:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/adanambs/public_html/config/db.php on line 28
+[29-Jul-2026 13:57:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adanambs/public_html/hatalar.php:6) in /home/adanambs/public_html/config/session_check.php on line 8
+[29-Jul-2026 17:00:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 17:00:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 17:00:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 17:00:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
+[29-Jul-2026 17:00:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/adanambs/public_html/anasayfa.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/adanambs/public_html/anasayfa.php on line 148
